@@ -1,0 +1,5 @@
+print(open("example.txt").readline())
+print(open("example.stuff").readline())
+print(open("example.simon").readline())
+print(open("example.file").readline())
+input('Press Enter to Continue...')
